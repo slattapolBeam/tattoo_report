@@ -1,0 +1,25 @@
+{
+  "logo_path": "logo.png",
+  "header": {
+    "ครั้งที่": "3",
+    "ภาคเรียน": "2/2567",
+    "ห้อง": "TIT.1/1"
+  },
+  "summary_tattoo": {
+    "found": { "checked": false },
+    "none": { "checked": true }
+  },
+  "summary_piercing": {
+    "male_pierced": { "checked": false },
+    "female_over_pierced": { "checked": false },
+    "none": { "checked": true }
+  },
+  "students_with_tattoo": [],
+  "teacher_name": "อาจารย์ลัทธพล สะและวงษ์",
+  "photos_dir": "photos",
+  "photo_sections": [
+    { "folder": "ชาย", "group_size": 3, "label_prefix": "ชุดชาย" },
+    { "folder": "หญิง", "group_size": 5, "label_prefix": "ชุดหญิง" }
+  ],
+  "output_file": "output/สรุปการตรวจ_รอยสัก-เจาะหู.docx"
+}
